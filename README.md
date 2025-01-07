@@ -61,6 +61,7 @@
 - **준성:** 부족했던 부분을 채워나가며 이전에 학습했던 내용 복기.
 - **민규:** [모던 자바스크립트 딥 다이브] 책을 처음 스터디하며 가볍게 개념 훑기.
 - **선민:** JavaScript 구현 경험을 바탕으로 기초를 단단히 다지기.
+- **경아:** 자바스크립트 기본 개념과 동작 원리를 정확하게 숙지하기.
 - **인호:** JavaScript 기초를 다지고, 스터디 문화를 정착시키기.
 
 
@@ -99,7 +100,7 @@
 
 | <img width="60px" src="https://avatars.githubusercontent.com/u/72684256?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/80810728?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/61536153?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/117818958?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/127717117?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/117568075?v=4"> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **신인호** | **김지인** | **배준성** | **김지현** | **김선민** | **유민규** |
-| [@42inshin](https://github.com/42inshin) | [@jnkeniaem](https://github.com/jnkeniaem) | [@wet6123](https://github.com/wet6123) | [@jihyunk03](https://github.com/jihyunk03) | [@seonmiki](https://github.com/seonmiki) | [@Minkyu01](https://github.com/Minkyu01) |
+| **신인호** | **김지인** | **배준성** | **김지현** | **김선민** | **유민규** | **고경아** |
+| [@42inshin](https://github.com/42inshin) | [@jnkeniaem](https://github.com/jnkeniaem) | [@wet6123](https://github.com/wet6123) | [@jihyunk03](https://github.com/jihyunk03) | [@seonmiki](https://github.com/seonmiki) | [@Minkyu01](https://github.com/Minkyu01) | [@gykoh42](https://github.com/gykoh42) |
 
 
