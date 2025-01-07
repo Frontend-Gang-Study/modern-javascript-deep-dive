@@ -98,8 +98,8 @@
 
 ## 스터디 멤버
 
-| <img width="60px" src="https://avatars.githubusercontent.com/u/72684256?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/80810728?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/61536153?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/117818958?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/127717117?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/117568075?v=4"> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img width="60px" src="https://avatars.githubusercontent.com/u/72684256?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/80810728?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/61536153?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/117818958?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/127717117?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/117568075?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/114395888?v=4"> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | **신인호** | **김지인** | **배준성** | **김지현** | **김선민** | **유민규** | **고경아** |
 | [@42inshin](https://github.com/42inshin) | [@jnkeniaem](https://github.com/jnkeniaem) | [@wet6123](https://github.com/wet6123) | [@jihyunk03](https://github.com/jihyunk03) | [@seonmiki](https://github.com/seonmiki) | [@Minkyu01](https://github.com/Minkyu01) | [@gykoh42](https://github.com/gykoh42) |
 
