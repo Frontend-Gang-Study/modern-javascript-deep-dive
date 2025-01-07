@@ -16,9 +16,6 @@
 
 ## 🛠 진행 방법
 
-1. **시간 정하기**
-   - 스터디 시간은 평일 밤 10시로 확정합니다.
-
 2. **질문 출제**
   - 스터디원 모두는 해당 장에서 **질문을 출제**합니다.
     - [GitHub issue](https://github.com/Frontend-Gang-Study/modern-javascript-deep-dive/issues)로 해당 챕터의 **label을 적용**하여 **문제를 작성**합니다.
@@ -30,8 +27,8 @@
    - 질문이 많거나 비슷하다고 느껴지면 질문 내는 방식을 조정할 수 있습니다.
    - 면접에서 나올 법한 질문들 위주로 작성해 주세요.
 
-4. **발표 방식**
-   - 질문 출제자가 질문을 하고, 번갈아 가며 발표를 진행합니다.
+4. **답변 방식**
+   - 질문 출제자가 질문을 하고, 번갈아 가며 답변합니다.
 
 5. **질문 및 답변 작성**
    - **질문 작성:** 스터디 당일 오후 9시까지
@@ -54,16 +51,17 @@
 
 - 면접에서의 기술적인 말하기 연습.
 - JavaScript 기초 및 심화 내용 복습과 정리.
-- 협업과 질문을 통해 다양한 관점을 이해하고 성장.
+- 질의응답을 통해 다양한 관점을 이해하고 성장.
 
 
 ## 🎯 개인 목표
 
-- **지인:** 이전에 놓친 부분을 복기하고, 기초를 단단히 다지기.
+- **지인:** 복습 및 보완하며 기초를 단단히 다지기.
 - **지현:** JavaScript를 처음 배우며, 전체 내용의 반 이상을 습득하기.
 - **준성:** 부족했던 부분을 채워나가며 이전에 학습했던 내용 복기.
 - **민규:** [모던 자바스크립트 딥 다이브] 책을 처음 스터디하며 가볍게 개념 훑기.
 - **선민:** JavaScript 구현 경험을 바탕으로 기초를 단단히 다지기.
+- **경아:** 자바스크립트 기본 개념과 동작 원리를 정확하게 숙지하기.
 - **인호:** JavaScript 기초를 다지고, 스터디 문화를 정착시키기.
 
 
@@ -100,9 +98,9 @@
 
 ## 스터디 멤버
 
-| <img width="60px" src="https://avatars.githubusercontent.com/u/72684256?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/80810728?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/61536153?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/117818958?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/127717117?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/117568075?v=4"> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **신인호** | **김지인** | **배준성** | **김지현** | **김선민** | **유민규** |
-| [@42inshin](https://github.com/42inshin) | [@jnkeniaem](https://github.com/jnkeniaem) | [@wet6123](https://github.com/wet6123) | [@jihyunk03](https://github.com/jihyunk03) | [@seonmiki](https://github.com/seonmiki) | [@Minkyu01](https://github.com/Minkyu01) |
+| <img width="60px" src="https://avatars.githubusercontent.com/u/72684256?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/80810728?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/61536153?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/117818958?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/127717117?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/117568075?v=4"> | <img width="60px" src="https://avatars.githubusercontent.com/u/114395888?v=4"> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **신인호** | **김지인** | **배준성** | **김지현** | **김선민** | **유민규** | **고경아** |
+| [@42inshin](https://github.com/42inshin) | [@jnkeniaem](https://github.com/jnkeniaem) | [@wet6123](https://github.com/wet6123) | [@jihyunk03](https://github.com/jihyunk03) | [@seonmiki](https://github.com/seonmiki) | [@Minkyu01](https://github.com/Minkyu01) | [@gykoh42](https://github.com/gykoh42) |
 
 
